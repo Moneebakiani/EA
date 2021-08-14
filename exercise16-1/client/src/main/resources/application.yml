@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: spring-boot-client
+base-service-url: spring-boot-server
+country-service:
+  username: service
+  password: '123'
